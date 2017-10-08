@@ -41,7 +41,7 @@ div.slide-show{
 
 img {
     border-style: solid;
-    height: -webkit-fill-available;
+    height: 100%;
 }
 
 
