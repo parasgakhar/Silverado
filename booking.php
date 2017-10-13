@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css " href="css/main.css" />
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="shortcut icon" href="img/fevi.png"/>
-</head>
+<link>
 <body>
 <nav>
     <ul>
