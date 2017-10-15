@@ -1,7 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: parasgakhar
- * Date: 13/10/17
- * Time: 3:25 PM
- */
+session_start();
+$title="Book Your Tickets.";
+include ("includes/header.php");
+include ("includes/navigation.php");
+?>
+
+<?php
+include ("includes/footer.php");
+?>

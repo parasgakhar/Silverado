@@ -1,8 +1,9 @@
 <?php
 session_start();
+$title="Now Showing";
 include ("includes/header.php");
 include ("includes/navigation.php");
-include ("includes/footer.php");
+
 ?>
 
 <div class="normal">
@@ -13,7 +14,9 @@ include ("includes/footer.php");
 </div>
 
 
-
+<?php
+include ("includes/footer.php");
+?>
 </body>
 
 </html>

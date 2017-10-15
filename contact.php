@@ -2,7 +2,7 @@
 session_start();
 include ("includes/header.php");
 include ("includes/navigation.php");
-include ("includes/footer.php");
+
 ?>
 
 <div class="normal">
@@ -41,6 +41,8 @@ include ("includes/footer.php");
         </div>
     </form>
 
-
+    <?php
+    include ("includes/footer.php");
+    ?>
 </body>
 </html>

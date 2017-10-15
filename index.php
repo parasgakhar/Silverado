@@ -1,8 +1,9 @@
 <?php
 session_start();
+$title="Home: Silverado.";
 include ("includes/header.php");
 include ("includes/navigation.php");
-include ("includes/footer.php");
+
 ?>
 <body>
 
@@ -63,8 +64,9 @@ include ("includes/footer.php");
     </div>
 </div>
 
-
-
+<?php
+include ("includes/footer.php");
+?>
 
 
 </body>

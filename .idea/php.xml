@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
-      <path value="$USER_HOME$/Desktop/Web Programming" />
+      <path value="C:\xampp\htdocs\Silverado" />
     </include_path>
   </component>
 </project>
