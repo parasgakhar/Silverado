@@ -1,5 +1,9 @@
 <?php
 session_start();
+$title="Select your Seats";
+include ("includes/header.php");
+include ("includes/navigation.php");
+
 $errorMessage= $session=$movie="";
 
 if (!empty($_SESSION['selection'])) {
