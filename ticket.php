@@ -1,5 +1,8 @@
 <?php
 session_start();
+$title="Book Your Tickets.";
+include ("includes/header.php");
+include ("includes/navigation.php");
 if (!empty($_SESSION['cart'])) {
 include('database.php');?>
 
@@ -60,4 +63,8 @@ echo "<table>";
         header('location:booking.php');
     }
     ?>
+
+<?php
+include ("includes/footer.php");
+?>
     </body></html>
