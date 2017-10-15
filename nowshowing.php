@@ -13,22 +13,6 @@ include ("includes/footer.php");
 </div>
 
 
-    <section class="movie-section">
-        <div class="now-showing">
-            <img src="img/nikka.jpg" alt="Nikka" style="height: 95%" width="100%">
-        </div>
-        <div class="now-showing">
-            <img src="img/action.jpg" alt="action" style="height: 95%" width=1280>
-        </div>
-        <div class="now-showing">
-            <img src="img/child.jpg" alt="child" style="height: 95%" width="100%">
-        </div>
-        <div class="now-showing">
-            <img src="img/romantic.jpg" alt="romantic" style="95%" width="750">
-        </div>
-    </section>
-
-
 
 </body>
 
