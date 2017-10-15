@@ -1,0 +1,28 @@
+.hidden
+{
+    display: none;
+}
+
+#movieError, #sessionError, .errorMessage
+{
+    color:red;
+    margin-left: 5px;
+}
+
+td,th
+{
+    border: 1px solid black;
+    padding:5px;
+}
+th
+{
+    text-align: left;
+}
+
+@media print {
+    #printbtn,#addButton,#deleteButton {
+        display :  none;
+    }
+
+
+}

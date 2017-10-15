@@ -45,7 +45,7 @@ if (!empty($_SESSION['selection'])) {
 }//If this page is loaded with posted from form.
 else
 {
-    header('Location:bookingTest.php');
+    header('Location:booking.php');
 }
 
 ?>

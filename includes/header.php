@@ -9,6 +9,6 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="shortcut icon" href="img/fevi.png"/>
 
-    <link rel="stylesheet" type="text/css" href="test.css">
+    <link rel="stylesheet" type="text/css" href="css/test.css">
     <script type="text/javascript" src="js/js.js"></script>
 </head>

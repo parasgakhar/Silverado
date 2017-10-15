@@ -68,6 +68,5 @@ include ("includes/navigation.php");
 include ("includes/footer.php");
 ?>
 
-
 </body>
 </html>
