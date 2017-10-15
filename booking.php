@@ -28,6 +28,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 
 
+
+
+
 <form name="bookingForm"  id="bookingForm1" method='POST' onsubmit="return checkFields()" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
     <fieldset>
         <legend>Book your Ticket</legend>
