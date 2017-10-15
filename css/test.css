@@ -20,7 +20,7 @@ th
 }
 
 @media print {
-    #printbtn,#addButton,#deleteButton {
+    #printbtn,#addButton,#deleteButton,#nav,#footer {
         display :  none;
     }
 

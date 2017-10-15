@@ -1,4 +1,4 @@
-<nav>
+<nav id="nav">
     <ul>
         <li><a class="logo" href="index.php?page=home"><img src="img/icon_Silverado.png" style="width:50px; height:50px" alt="Silverado Logo"/>
                 <span>SILVERADO</span></a></li>
