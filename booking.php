@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $movie=trim($_POST["movie"]);
         $session=trim($_POST["session"]);
         $_SESSION['selection']=["movie"=>$movie,"session"=>$session];
-        header("location: selection.php");
+        header("location: SeatSelection.php");
 
     }
     else
